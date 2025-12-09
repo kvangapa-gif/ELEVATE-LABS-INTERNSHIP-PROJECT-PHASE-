@@ -1,0 +1,114 @@
+{
+  "file": "uploaded_code_analysis.py",
+  "flake8_issues": [
+    {
+      "line": 7,
+      "col": 1,
+      "code": "F401",
+      "message": "'typing.Tuple' imported but unused"
+    },
+    {
+      "line": 11,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 27,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (80 > 79 characters)"
+    },
+    {
+      "line": 55,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (101 > 79 characters)"
+    },
+    {
+      "line": 71,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 123,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 127,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (98 > 79 characters)"
+    },
+    {
+      "line": 171,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 188,
+      "col": 1,
+      "code": "W391",
+      "message": "blank line at end of file"
+    }
+  ],
+  "radon_cc": {
+    "inputs\\uploaded_code_analysis.py": [
+      {
+        "type": "function",
+        "rank": "B",
+        "endline": 67,
+        "name": "run_flake8",
+        "complexity": 6,
+        "col_offset": 0,
+        "lineno": 11,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "B",
+        "endline": 119,
+        "name": "run_radon_cc",
+        "complexity": 6,
+        "col_offset": 0,
+        "lineno": 71,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "B",
+        "endline": 167,
+        "name": "run_radon_mi",
+        "complexity": 6,
+        "col_offset": 0,
+        "lineno": 123,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "A",
+        "endline": 187,
+        "name": "analyze_file",
+        "complexity": 1,
+        "col_offset": 0,
+        "lineno": 171,
+        "closures": []
+      }
+    ]
+  },
+  "radon_mi": {
+    "inputs\\uploaded_code_analysis.py": {
+      "mi": 73.00891712046572,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}

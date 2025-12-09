@@ -1,0 +1,83 @@
+{
+  "file": "uploaded_chatbot.py",
+  "flake8_issues": [
+    {
+      "line": 9,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 15,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 15,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (88 > 79 characters)"
+    },
+    {
+      "line": 19,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 27,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 31,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 41,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 51,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 55,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 75,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 76,
+      "col": 1,
+      "code": "W391",
+      "message": "blank line at end of file"
+    }
+  ],
+  "radon_cc": {},
+  "radon_mi": {
+    "inputs\\uploaded_chatbot.py": {
+      "mi": 72.99726394969257,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}

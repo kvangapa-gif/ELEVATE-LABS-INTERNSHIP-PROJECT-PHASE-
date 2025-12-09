@@ -1,0 +1,21 @@
+{
+  "file": "example_code.py",
+  "flake8_issues": [
+    {
+      "line": 1,
+      "code": "E401",
+      "message": "multiple imports on one line"
+    }
+  ],
+  "radon_complexity": {
+    "functions": [
+      {"name": "greet", "type": "function", "complexity": 1, "lineno": 3},
+      {"name": "complicated", "type": "function", "complexity": 3, "lineno": 6}
+    ],
+    "maintainability_index": 78.2
+  },
+  "formatting": {
+    "formatted_file": "outputs/formatted_code.py"
+  },
+  "summary": "Found several style issues, cyclomatic complexity moderate. Recommended to refactor complicated() and remove unused variables."
+}

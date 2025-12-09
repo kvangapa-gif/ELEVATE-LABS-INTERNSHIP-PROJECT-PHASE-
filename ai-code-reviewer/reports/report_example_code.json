@@ -1,0 +1,78 @@
+{
+  "file": "example_code.py",
+  "flake8_issues": [
+    {
+      "line": 7,
+      "col": 1,
+      "code": "F401",
+      "message": "'typing.Tuple' imported but unused"
+    },
+    {
+      "line": 24,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (80 > 79 characters)"
+    },
+    {
+      "line": 114,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (98 > 79 characters)"
+    }
+  ],
+  "radon_cc": {
+    "inputs\\example_code.py": [
+      {
+        "type": "function",
+        "rank": "B",
+        "name": "run_flake8",
+        "complexity": 6,
+        "endline": 63,
+        "col_offset": 0,
+        "lineno": 10,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "B",
+        "name": "run_radon_cc",
+        "complexity": 6,
+        "endline": 108,
+        "col_offset": 0,
+        "lineno": 66,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "B",
+        "name": "run_radon_mi",
+        "complexity": 6,
+        "endline": 149,
+        "col_offset": 0,
+        "lineno": 111,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "A",
+        "name": "analyze_file",
+        "complexity": 1,
+        "endline": 167,
+        "col_offset": 0,
+        "lineno": 152,
+        "closures": []
+      }
+    ]
+  },
+  "radon_mi": {
+    "inputs\\example_code.py": {
+      "mi": 72.48463871636493,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}

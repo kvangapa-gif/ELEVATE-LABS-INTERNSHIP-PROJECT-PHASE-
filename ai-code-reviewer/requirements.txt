@@ -1,0 +1,7 @@
+streamlit
+flake8
+black
+radon
+pandas
+matplotlib
+altair

@@ -1,0 +1,1235 @@
+{
+  "file": "uploaded_tower-defence-game.py",
+  "flake8_issues": [
+    {
+      "line": 5,
+      "col": 1,
+      "code": "F401",
+      "message": "'random' imported but unused"
+    },
+    {
+      "line": 9,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 13,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 39,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 49,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 51,
+      "col": 66,
+      "code": "W291",
+      "message": "trailing whitespace"
+    },
+    {
+      "line": 59,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 77,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 79,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 91,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 93,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 107,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 109,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 111,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (80 > 79 characters)"
+    },
+    {
+      "line": 121,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (88 > 79 characters)"
+    },
+    {
+      "line": 123,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (105 > 79 characters)"
+    },
+    {
+      "line": 129,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 141,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 143,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 185,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 187,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 191,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 193,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 203,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 205,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 211,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 213,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 223,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 225,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 227,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 229,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 241,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 243,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 249,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 251,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 259,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 261,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 269,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 271,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 277,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (82 > 79 characters)"
+    },
+    {
+      "line": 281,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 283,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 287,
+      "col": 67,
+      "code": "W291",
+      "message": "trailing whitespace"
+    },
+    {
+      "line": 289,
+      "col": 28,
+      "code": "E128",
+      "message": "continuation line under-indented for visual indent"
+    },
+    {
+      "line": 295,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 321,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 323,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 333,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 335,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 347,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 349,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 365,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 367,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 385,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 387,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 397,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 399,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 401,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (87 > 79 characters)"
+    },
+    {
+      "line": 407,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 409,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 413,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 415,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 419,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 421,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 429,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 431,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 437,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 439,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 447,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (101 > 79 characters)"
+    },
+    {
+      "line": 451,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (102 > 79 characters)"
+    },
+    {
+      "line": 455,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 457,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 461,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 463,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 467,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (80 > 79 characters)"
+    },
+    {
+      "line": 469,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 471,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 473,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 475,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 483,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 485,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 491,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 493,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 507,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 509,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 523,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 525,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 537,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 539,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 549,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 551,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 551,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (88 > 79 characters)"
+    },
+    {
+      "line": 553,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (84 > 79 characters)"
+    },
+    {
+      "line": 555,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 557,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 569,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 571,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 577,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 579,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 581,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (83 > 79 characters)"
+    },
+    {
+      "line": 583,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (81 > 79 characters)"
+    },
+    {
+      "line": 589,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 591,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 595,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (82 > 79 characters)"
+    },
+    {
+      "line": 601,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 603,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 607,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 609,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 639,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 641,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 641,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (83 > 79 characters)"
+    },
+    {
+      "line": 651,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (87 > 79 characters)"
+    },
+    {
+      "line": 677,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 679,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 689,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 691,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 699,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 701,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 709,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 711,
+      "col": 13,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 727,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 733,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 735,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 739,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 741,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 765,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 767,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 783,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 785,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 791,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 793,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 797,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 800,
+      "col": 1,
+      "code": "W391",
+      "message": "blank line at end of file"
+    }
+  ],
+  "radon_cc": {
+    "inputs\\uploaded_tower-defence-game.py": [
+      {
+        "type": "method",
+        "rank": "C",
+        "classname": "Game",
+        "endline": 675,
+        "lineno": 603,
+        "col_offset": 4,
+        "complexity": 18,
+        "name": "handle_click",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "C",
+        "classname": "Game",
+        "endline": 405,
+        "lineno": 349,
+        "col_offset": 4,
+        "complexity": 11,
+        "name": "update",
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "B",
+        "endline": 793,
+        "lineno": 727,
+        "col_offset": 0,
+        "complexity": 9,
+        "name": "main",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "B",
+        "classname": "Game",
+        "endline": 721,
+        "lineno": 679,
+        "col_offset": 4,
+        "complexity": 8,
+        "name": "place_tower",
+        "closures": []
+      },
+      {
+        "type": "class",
+        "rank": "B",
+        "endline": 721,
+        "lineno": 295,
+        "col_offset": 0,
+        "complexity": 7,
+        "name": "Game",
+        "methods": [
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Game",
+            "endline": 319,
+            "lineno": 297,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "__init__",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Game",
+            "endline": 331,
+            "lineno": 323,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "spawn_wave",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Game",
+            "endline": 345,
+            "lineno": 335,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "spawn_enemy",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "C",
+            "classname": "Game",
+            "endline": 405,
+            "lineno": 349,
+            "col_offset": 4,
+            "complexity": 11,
+            "name": "update",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Game",
+            "endline": 459,
+            "lineno": 409,
+            "col_offset": 4,
+            "complexity": 5,
+            "name": "draw",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Game",
+            "endline": 599,
+            "lineno": 463,
+            "col_offset": 4,
+            "complexity": 5,
+            "name": "draw_ui",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "C",
+            "classname": "Game",
+            "endline": 675,
+            "lineno": 603,
+            "col_offset": 4,
+            "complexity": 18,
+            "name": "handle_click",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "B",
+            "classname": "Game",
+            "endline": 721,
+            "lineno": 679,
+            "col_offset": 4,
+            "complexity": 8,
+            "name": "place_tower",
+            "closures": []
+          }
+        ]
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Game",
+        "endline": 459,
+        "lineno": 409,
+        "col_offset": 4,
+        "complexity": 5,
+        "name": "draw",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Game",
+        "endline": 599,
+        "lineno": 463,
+        "col_offset": 4,
+        "complexity": 5,
+        "name": "draw_ui",
+        "closures": []
+      },
+      {
+        "type": "class",
+        "rank": "A",
+        "endline": 289,
+        "lineno": 129,
+        "col_offset": 0,
+        "complexity": 4,
+        "name": "Tower",
+        "methods": [
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 189,
+            "lineno": 131,
+            "col_offset": 4,
+            "complexity": 4,
+            "name": "__init__",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 201,
+            "lineno": 193,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "upgrade",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 225,
+            "lineno": 205,
+            "col_offset": 4,
+            "complexity": 4,
+            "name": "find_target",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 239,
+            "lineno": 229,
+            "col_offset": 4,
+            "complexity": 3,
+            "name": "shoot",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 247,
+            "lineno": 243,
+            "col_offset": 4,
+            "complexity": 2,
+            "name": "update",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Tower",
+            "endline": 289,
+            "lineno": 251,
+            "col_offset": 4,
+            "complexity": 4,
+            "name": "draw",
+            "closures": []
+          }
+        ]
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 189,
+        "lineno": 131,
+        "col_offset": 4,
+        "complexity": 4,
+        "name": "__init__",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 225,
+        "lineno": 205,
+        "col_offset": 4,
+        "complexity": 4,
+        "name": "find_target",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 289,
+        "lineno": 251,
+        "col_offset": 4,
+        "complexity": 4,
+        "name": "draw",
+        "closures": []
+      },
+      {
+        "type": "class",
+        "rank": "A",
+        "endline": 123,
+        "lineno": 59,
+        "col_offset": 0,
+        "complexity": 3,
+        "name": "Enemy",
+        "methods": [
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Enemy",
+            "endline": 75,
+            "lineno": 61,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "__init__",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Enemy",
+            "endline": 105,
+            "lineno": 79,
+            "col_offset": 4,
+            "complexity": 3,
+            "name": "move",
+            "closures": []
+          },
+          {
+            "type": "method",
+            "rank": "A",
+            "classname": "Enemy",
+            "endline": 123,
+            "lineno": 109,
+            "col_offset": 4,
+            "complexity": 1,
+            "name": "draw",
+            "closures": []
+          }
+        ]
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Enemy",
+        "endline": 105,
+        "lineno": 79,
+        "col_offset": 4,
+        "complexity": 3,
+        "name": "move",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 239,
+        "lineno": 229,
+        "col_offset": 4,
+        "complexity": 3,
+        "name": "shoot",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 247,
+        "lineno": 243,
+        "col_offset": 4,
+        "complexity": 2,
+        "name": "update",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Enemy",
+        "endline": 75,
+        "lineno": 61,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "__init__",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Enemy",
+        "endline": 123,
+        "lineno": 109,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "draw",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Tower",
+        "endline": 201,
+        "lineno": 193,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "upgrade",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Game",
+        "endline": 319,
+        "lineno": 297,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "__init__",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Game",
+        "endline": 331,
+        "lineno": 323,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "spawn_wave",
+        "closures": []
+      },
+      {
+        "type": "method",
+        "rank": "A",
+        "classname": "Game",
+        "endline": 345,
+        "lineno": 335,
+        "col_offset": 4,
+        "complexity": 1,
+        "name": "spawn_enemy",
+        "closures": []
+      }
+    ]
+  },
+  "radon_mi": {
+    "inputs\\uploaded_tower-defence-game.py": {
+      "mi": 27.695637664462716,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}

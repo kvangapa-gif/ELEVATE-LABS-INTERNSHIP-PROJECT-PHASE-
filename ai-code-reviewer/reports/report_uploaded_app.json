@@ -1,0 +1,275 @@
+{
+  "file": "uploaded_app.py",
+  "flake8_issues": [
+    {
+      "line": 9,
+      "col": 1,
+      "code": "F401",
+      "message": "'io' imported but unused"
+    },
+    {
+      "line": 19,
+      "col": 1,
+      "code": "F401",
+      "message": "'core.utils.write_file' imported but unused"
+    },
+    {
+      "line": 19,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 23,
+      "col": 1,
+      "code": "F401",
+      "message": "'core.formatter.run_black' imported but unused"
+    },
+    {
+      "line": 27,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 29,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (98 > 79 characters)"
+    },
+    {
+      "line": 33,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 49,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 53,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 59,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (83 > 79 characters)"
+    },
+    {
+      "line": 65,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 83,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 115,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 123,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (96 > 79 characters)"
+    },
+    {
+      "line": 133,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 149,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (88 > 79 characters)"
+    },
+    {
+      "line": 155,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 167,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 175,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 179,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 181,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (108 > 79 characters)"
+    },
+    {
+      "line": 185,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 201,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 213,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (82 > 79 characters)"
+    },
+    {
+      "line": 217,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (89 > 79 characters)"
+    },
+    {
+      "line": 229,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 235,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (100 > 79 characters)"
+    },
+    {
+      "line": 253,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (115 > 79 characters)"
+    },
+    {
+      "line": 261,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 271,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 285,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (92 > 79 characters)"
+    },
+    {
+      "line": 291,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 357,
+      "col": 9,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 363,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 375,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (113 > 79 characters)"
+    },
+    {
+      "line": 387,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 403,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (122 > 79 characters)"
+    },
+    {
+      "line": 409,
+      "col": 9,
+      "code": "F811",
+      "message": "redefinition of unused 'save_json' from line 19"
+    },
+    {
+      "line": 415,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (125 > 79 characters)"
+    },
+    {
+      "line": 421,
+      "col": 80,
+      "code": "E501",
+      "message": "line too long (86 > 79 characters)"
+    },
+    {
+      "line": 421,
+      "col": 87,
+      "code": "W291",
+      "message": "trailing whitespace"
+    },
+    {
+      "line": 423,
+      "col": 1,
+      "code": "W293",
+      "message": "blank line contains whitespace"
+    },
+    {
+      "line": 423,
+      "col": 9,
+      "code": "W292",
+      "message": "no newline at end of file"
+    }
+  ],
+  "radon_cc": {},
+  "radon_mi": {
+    "inputs\\uploaded_app.py": {
+      "mi": 48.66040666101486,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}

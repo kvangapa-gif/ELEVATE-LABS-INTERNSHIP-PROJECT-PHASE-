@@ -1,0 +1,132 @@
+{
+  "file": "uploaded_utils.py",
+  "flake8_issues": [
+    {
+      "line": 5,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 9,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 13,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 19,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 23,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 29,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 33,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 39,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 43,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 49,
+      "col": 1,
+      "code": "E303",
+      "message": "too many blank lines (5)"
+    },
+    {
+      "line": 53,
+      "col": 5,
+      "code": "E303",
+      "message": "too many blank lines (3)"
+    },
+    {
+      "line": 53,
+      "col": 62,
+      "code": "W292",
+      "message": "no newline at end of file"
+    }
+  ],
+  "radon_cc": {
+    "inputs\\uploaded_utils.py": [
+      {
+        "type": "function",
+        "rank": "A",
+        "col_offset": 0,
+        "lineno": 19,
+        "name": "read_file",
+        "complexity": 1,
+        "endline": 23,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "A",
+        "col_offset": 0,
+        "lineno": 29,
+        "name": "write_file",
+        "complexity": 1,
+        "endline": 33,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "A",
+        "col_offset": 0,
+        "lineno": 39,
+        "name": "save_json",
+        "complexity": 1,
+        "endline": 43,
+        "closures": []
+      },
+      {
+        "type": "function",
+        "rank": "A",
+        "col_offset": 0,
+        "lineno": 49,
+        "name": "load_json",
+        "complexity": 1,
+        "endline": 53,
+        "closures": []
+      }
+    ]
+  },
+  "radon_mi": {
+    "inputs\\uploaded_utils.py": {
+      "mi": 100.0,
+      "rank": "A"
+    }
+  },
+  "formatting": {
+    "success": true,
+    "message": "Formatted file written to outputs\\formatted_code.py",
+    "formatted_file": "outputs\\formatted_code.py"
+  }
+}
