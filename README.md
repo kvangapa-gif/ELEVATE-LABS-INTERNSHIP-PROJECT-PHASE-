@@ -139,3 +139,9 @@ You can deploy this project globally using:
 
 The AI Code Reviewer simplifies the entire process of analyzing Python code and provides developers with a clean, advanced, and visually appealing interface to enhance code quality.
 It integrates multiple static analysis tools into one unified platform, making it useful for interns, students, and professional developers.
+
+
+
+# Live demo 👇
+
+https://jgmqxoaptndlsravfmjpxg.streamlit.app/
