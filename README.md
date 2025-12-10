@@ -82,33 +82,26 @@ AI-CODE-REVIEWER/
 # 🚀 How It Works
 Step 1 — Upload Code
 
-User uploads a .py file or selects an example.
+User uploads a .py file or selects an example by pasting the code.
+
 Step 2 — Analysis Processing
+Click save edits to file and click run analysis.
 
 The file is scanned using:
-
 flake8 → Finds style issues
-
 radon cc → Measures complexity
-
 radon mi → Calculates maintainability
 
 Step 3 — Code Formatting
-
 Black automatically formats the code to industry standards.
 
 Step 4 — Output & Visuals
-
 List of style errors
-
 Complexity charts
-
 Maintainability reports
-
 Fully formatted code
 
 Step 5 — Export
-
 Download results as JSON or download the formatted code file.
 
 
